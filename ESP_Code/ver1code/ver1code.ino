@@ -2,7 +2,7 @@
 #include <MFRC522.h>
 
 
-#define RST_PIN 0
+#define RST_PIN 10
 #define SS_PIN 5
 
 byte readCard[4];
